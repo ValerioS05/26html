@@ -1,0 +1,26 @@
+body {
+    background: black;
+    color: white;
+    text-align: center;
+    align-items:center;
+    font-size: 2vh;
+    margin: 0 auto;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    color: green;
+}
+
+ul,ol {
+    width: fit fit-content;
+    text-align: left;
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+footer {
+    color: green;
+    margin-top: 2%;
+}
+
